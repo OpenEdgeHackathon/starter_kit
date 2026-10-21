@@ -1,0 +1,10 @@
+Progress OpenEdge MCP Server 1.0 Readme
+
+Date: January, 2026
+--------------------------------
+Copyright (c) 2026 Progress Software Corporation.  All rights reserved.
+
+
+To get started with the product, please go to:
+
+https://docs.progress.com/bundle/openedge-mcp-server/page/Introduction-to-the-OpenEdge-MCP-Server.html
